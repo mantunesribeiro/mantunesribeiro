@@ -49,7 +49,6 @@ Full Stack Developer with 6+ years of experience building scalable web applicati
 
 [![Linkedin](https://img.shields.io/badge/-Mateus%20Antunes-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-antunes-ribeiro-716b50166)
 [![GitHub](https://img.shields.io/github/followers/mantunesribeiro?label=Follow&style=social)](https://github.com/mantunesribeiro)
-[![Gmail](https://img.shields.io/badge/-mantunesribeiro38@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:mantunesribeiro38@gmail.com)
 
 ---
 
