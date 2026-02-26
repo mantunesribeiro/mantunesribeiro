@@ -48,8 +48,7 @@ Full Stack Developer with 6+ years of experience building scalable web applicati
 ## 🌐 Let's connect
 
 [![Linkedin](https://img.shields.io/badge/-Mateus%20Antunes-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-antunes-ribeiro-716b50166)
-[![GitHub](https://img.shields.io/github/followers/mantunesribeiro?label=Follow&style=social)](https://github.com/mantunesribeiro)
-
+[![GitHub](https://img.shields.io/badge/-mantunesribeiro-333?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/mantunesribeiro)
 ---
 
 ⭐ Always open to new challenges, collaboration, and building great software.
