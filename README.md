@@ -31,19 +31,6 @@ Full Stack Developer with 6+ years of experience building scalable web applicati
   <img src="https://skillicons.dev/icons?i=php,laravel,react,nextjs,js,ts,html,css,tailwind,mysql,docker,git,github,vscode" />
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mantunesribeiro&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-
-<img src="https://streak-stats.demolab.com?user=mantunesribeiro&theme=github-dark&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
 
 ## 🌐 Let's connect
 
