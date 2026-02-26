@@ -1,24 +1,56 @@
-
-
-## 👋 Olá, meu nome é <strong>Mateus</strong>
-
-🎓 Graduado em Sistemas de Informação - <a  href="https://unimontes.br/">Universidade Estadual de Montes Claros</a>.
-
-
-----
-
-## 🚀 Minhas Skills
-
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
-<img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="php"/></code>
-
+<h1 align="center">Hey, I'm Mateus Antunes 👋</h1>
+<p align="center">
+Full Stack Developer with 6+ years of experience building scalable web applications — from requirements gathering to production delivery.
+</p>
 
 ---
 
-## 🔭 Onde me encontrar
-[![Linkedin: MATEUS](https://img.shields.io/badge/-MATEUS-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/mateus-antunes-ribeiro-716b50166](https://www.linkedin.com/in/mateus-antunesribeiro/))](https://www.linkedin.com/in/mateus-antunes-ribeiro-716b50166) [![GitHub SEU NOME]( https://img.shields.io/github/followers/mantunesribeiro?label=follow&style=social)](https://github.com/mantunesribeiro)
+## 🚀 About me
+
+- 💼 Full Stack Developer at **Devsquad**
+- 🎓 Bachelor's in Information Systems — Universidade Estadual de Montes Claros
+- ⚡ Specialized in the **TALL Stack** (TailwindCSS, AlpineJS, Laravel, Livewire) and **React/Next.js** ecosystems
+- 🔄 Experienced across the full software development lifecycle: analysis, development, testing, code review and deployment
+- 🧠 Passionate about clean code, scalable architecture and continuous improvement
+
+---
+
+## 🧩 What I do
+
+✔ Build and maintain full-stack web applications with Laravel & React/Next.js  
+✔ Develop and integrate RESTful APIs  
+✔ Write automated tests and perform thorough code reviews  
+✔ Implement CI/CD pipelines and containerized environments with Docker  
+✔ Collaborate in agile teams using Scrum and Kanban  
+
+---
+
+## 🛠 Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,react,nextjs,js,ts,html,css,tailwind,mysql,docker,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mantunesribeiro&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+
+<img src="https://streak-stats.demolab.com?user=mantunesribeiro&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 🌐 Let's connect
+
+[![Linkedin](https://img.shields.io/badge/-Mateus%20Antunes-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-antunes-ribeiro-716b50166)
+[![GitHub](https://img.shields.io/github/followers/mantunesribeiro?label=Follow&style=social)](https://github.com/mantunesribeiro)
+[![Gmail](https://img.shields.io/badge/-mantunesribeiro38@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:mantunesribeiro38@gmail.com)
+
+---
+
+⭐ Always open to new challenges, collaboration, and building great software.
