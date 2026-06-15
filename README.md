@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Mateus Antunes 👋</h1>
 <p align="center">
-Full Stack Developer with 5+ years of experience building scalable web applications — from requirements gathering to production delivery.
+Full Stack Developer with experience building scalable web applications, from requirements gathering to production delivery.
 </p>
 
 ---
